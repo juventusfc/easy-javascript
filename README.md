@@ -13,7 +13,7 @@ JavaScript 文件从编写到执行的过程为：
 ## JavaScript 的知识架构
 
 - 文法
-  - 词法
+  - [词法](./词法.md)
   - [语法](./语法.md)
     - CommonJS 和 ES6Modules
 - 语义
