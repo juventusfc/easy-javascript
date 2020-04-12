@@ -19,7 +19,7 @@ JavaScript 文件从编写到执行的过程为：
 - 语义
 - 运行时
   - 数据结构
-    - 类型
+    - [类型](./类型.md)
       - Symbol
       - Object
       - Handle Big Int in JavaScript
