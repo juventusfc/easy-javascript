@@ -14,7 +14,7 @@ JavaScript 文件从编写到执行的过程为：
 
 - 文法
   - 词法
-  - 语法
+  - [语法](./语法.md)
     - CommonJS 和 ES6Modules
 - 语义
 - 运行时
