@@ -21,7 +21,7 @@ JavaScript 文件从编写到执行的过程为：
   - 数据结构
     - [类型](./类型.md)
       - [Symbol](./Symbol.md)
-      - Object
+      - [Object](./Object.md)
       - Handle Big Int in JavaScript
     - 实例
       - 应用和机制
