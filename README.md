@@ -22,7 +22,7 @@ JavaScript 文件从编写到执行的过程为：
     - [类型](./类型.md)
       - [Symbol](./Symbol.md)
       - [Object](./Object.md)
-      - Handle Big Int in JavaScript
+      - [Handle Big Int in JavaScript](./Handle-Big-Int-in-JavaScript.md)
     - 实例
       - 应用和机制
   - 算法
